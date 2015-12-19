@@ -1,4 +1,4 @@
 TIMEOUT=10
 ATTEMPTS=15
 
-/	navmenu
+//tcfconnect.dokku.splitatom.com	navmenu
