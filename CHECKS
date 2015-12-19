@@ -1,4 +1,5 @@
 TIMEOUT=10
-ATTEMPTS=15
+WAIT=10
+ATTEMPTS=20
 
 //tcfconnect.dokku.splitatom.com	navmenu
